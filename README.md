@@ -6,6 +6,6 @@ Pour Apache2 et Wordpress, nous avons utilisé un seul tuto : https://www.tecmin
 
 Pour Wekan (et snap) : https://www.mikmer.fr/?p=340
 
-Sur le troisième serveur, le Reverse Procy, nous avons besoin du HaProxy et ce tutoriel remplit nos besoins:
+Sur le troisième serveur, le Reverse Procy, nous avons besoin du HaProxy:
 
-https://linuxhint.com/how-to-install-and-configure-haproxy-load-balancer-in-linux/
+https://www.vultr.com/docs/how-to-install-haproxy-on-ubuntu-20-04/
